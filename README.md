@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 # Discordantopia
 
 Welcome, traveler, to Armada, a spaceport like no other! 
