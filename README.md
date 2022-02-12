@@ -42,8 +42,8 @@ Unless it’s already been met, please note that all of the goals below are subj
 
 **Colored Backgrounds x8 - $114 ($1,031 Total) - FUNDED!**
 
-**Editing - $360 ($1,329 Total) - NEXT!**
+**Editing - $360 ($1,391 Total) - NEXT!**
 
-**Printing - $;671 ($2,000 Total)\***
+**Printing - $;609 ($2,000 Total)\***
 
 **\*:** Just based on an instant quote I got from Mixam, could potentially start printing for less if I dip into my own funds or get outside support.
