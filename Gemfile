@@ -1,3 +1,6 @@
 source 'https://rubygems.org'
-gem 'github-pages'
-gem 'just-the-docs'
+group :jekyll_plugins do
+  gem 'github-pages'
+  gem "just-the-docs"
+  gem 'jekyll-redirect-from'
+end
